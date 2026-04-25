@@ -122,7 +122,7 @@ _Photos to be added when components arrive._
 
 ---
 
-# Bill of Materials
+## Bill of Materials
 
 | Device | Usage | Price |
 |--------|-------|-------|
