@@ -81,7 +81,7 @@ via its VSYS pin from the same supply.
 
 ---
 
-# Log
+## Log
 
 ### Week 23 – 29 March
 Got the project idea based on the existing flower shop website I had already built.
