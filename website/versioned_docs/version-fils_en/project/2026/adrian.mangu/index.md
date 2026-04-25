@@ -137,7 +137,6 @@ _Photos to be added when components arrive._
 
 | Library | Description | Usage |
 |---------|-------------|-------|
-| Rust | Systems programming language | Core implementation |
 | embassy-rp | Async embedded framework for RP2350 | GPIO, UART, task management |
 | embassy-executor | Async task executor | Managing concurrent tasks |
 | cyw43-pio | CYW43439 Wi-Fi driver | Wi-Fi connectivity |
