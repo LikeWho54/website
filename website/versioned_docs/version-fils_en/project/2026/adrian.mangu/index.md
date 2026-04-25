@@ -62,7 +62,7 @@ faster, and more professional.
 
 ---
 
-# Component Connection
+## Component Connection
 
 ![Architecture Diagram](Diagram.drawio.svg)
 
