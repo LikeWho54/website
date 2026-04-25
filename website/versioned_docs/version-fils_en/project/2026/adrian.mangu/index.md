@@ -12,7 +12,7 @@ when a customer places an order on an external server.
 
 ---
 
-# Description
+## Description
 
 This project implements an **Order Management and Printing System** built using **Rust**
 on a **Raspberry Pi Pico 2W** microcontroller.
