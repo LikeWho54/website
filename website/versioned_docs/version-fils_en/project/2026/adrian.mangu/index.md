@@ -30,7 +30,7 @@ total price.
 
 ---
 
-# Motivation
+## Motivation
 
 I chose this project because it solves a **real problem** for a real business I have
 already worked with. The current WhatsApp-based solution works, but it is not ideal because
