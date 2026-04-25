@@ -114,7 +114,7 @@ Ordered all the required components.
 
 ---
 
-# Hardware
+## Hardware
 
 _Schematic to be added (KiCad)._
 
