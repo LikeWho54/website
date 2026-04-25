@@ -43,19 +43,19 @@ faster, and more professional.
 
 # Architecture
 
-## Main Components
+### Main Components
 
-### Connectivity Layer
+#### Connectivity Layer
 - **Raspberry Pi Pico 2W (RP2350 + CYW43439)**  
   Connects to Wi-Fi, receives order data from the external server via HTTP,
   and drives the thermal printer over UART.
 
-### Output Layer
+#### Output Layer
 - **Thermal Printer (CSN-A2)**  
   Receives print commands from the Pico 2W over UART and prints physical
   receipts with order details (customer name, flowers, total price).
 
-### Power Layer
+#### Power Layer
 - **5V 2A Power Adapter**  
   Powers both the Pico 2W and the thermal printer, which requires a stable
   5V supply for reliable printing.
