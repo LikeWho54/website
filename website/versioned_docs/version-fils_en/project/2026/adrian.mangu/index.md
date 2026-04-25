@@ -3,8 +3,12 @@
 A Wi-Fi connected thermal receipt printer that automatically prints order details
 when a customer places an order on an external server.
 
-**Author:** Mangu Adrian Constantin  
-**GitHub Project Link:** https://github.com/UPB-PMRust-Students/fils-project-2026-LikeWho54
+:::info
+
+**Author**: Mangu Adrian Constantin \
+**GitHub Project Link**: https://github.com/UPB-PMRust-Students/fils-project-2026-LikeWho54
+
+:::
 
 ---
 
@@ -140,3 +144,11 @@ _Photos to be added when components arrive._
 | embassy-net | Network stack | TCP/IP, HTTP requests |
 | serde-json-core | JSON parsing (no_std) | Parsing incoming order data |
 | thermal-print | Thermal printer ESC/POS commands | Controlling the printer |
+
+
+## Links
+
+1. [Embassy-rs Framework](https://embassy.dev)
+2. [ESC/POS Command Reference](https://www.epson-biz.com/modules/ref_escpos/index.php)
+3. [Raspberry Pi Pico 2W Datasheet](https://www.raspberrypi.com/documentation/microcontrollers/raspberry-pi-pico.html)
+4. [Flowershop](https://www.ducksflower.ro/)
