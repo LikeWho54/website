@@ -41,7 +41,7 @@ faster, and more professional.
 
 ---
 
-# Architecture
+## Architecture
 
 ### Main Components
 
